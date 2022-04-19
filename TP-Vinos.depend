@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1636144355 source:c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<sstream>
+	"vinos.h"
+	"lista-vinos.h"
+	"elecciones.h"
+	"listaElecciones.h"
+	"Usuario.h"
+	"Lista_Usuarios.h"
+
+1635978061 c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\vinos.h
+
+1636145624 source:c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\lista-vinos.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"lista-vinos.h"
+
+1635983794 source:c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\vinos.cpp
+	<iostream>
+	"vinos.h"
+
+1636145624 c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\lista-vinos.h
+	"vinos.h"
+
+1635985324 source:c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\elecciones.cpp
+	"elecciones.h"
+
+1636163978 c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\elecciones.h
+
+1635983094 source:c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\lista-eleccion.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"lista-eleccion.h"
+	"elecciones.h"
+
+1635986162 c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\lista-eleccion.h
+	"elecciones.h"
+
+1635986344 source:c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\listavinos.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"listaVinos.h"
+
+1635986301 c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\listavinos.h
+	"vinos.h"
+
+1636137191 source:c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\listaelecciones.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"listaElecciones.h"
+	"elecciones.h"
+
+1636138158 c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\listaelecciones.h
+	"elecciones.h"
+
+1635995075 source:c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\lista_usuarios.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	"Lista_Usuarios.h"
+	"Usuario.h"
+
+1636164190 c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\lista_usuarios.h
+	"Usuario.h"
+
+1635995146 c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\usuario.h
+
+1635995204 source:c:\users\rocio\documents\universidad\segundo año\ayed\tp-vinos\usuario.cpp
+	<iostream>
+	<string.h>
+	"Usuario.h"
+
